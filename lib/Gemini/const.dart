@@ -1,0 +1,1 @@
+String gemini_apikey="AIzaSyCR1pp_6n64_YLUwWiYE75usuiKaHpXaZw";
