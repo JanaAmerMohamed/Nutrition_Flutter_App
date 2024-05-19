@@ -63,7 +63,56 @@ Key features of the mobile application
 
 ## 2.dashboard   & chatbot:
 
-![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/3d883cdc-1104-43ce-bae0-2710cedcb501)   ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9265cda5-43b0-4496-9407-161ea743b2aa)
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/3d883cdc-1104-43ce-bae0-2710cedcb501)      ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9265cda5-43b0-4496-9407-161ea743b2aa)
+
+## 3.	fitness exercise:
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/51a4d7f5-d922-4921-a089-97d9c0e3f4ac)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9a93d7c8-6c64-4322-810d-881d3ae50294)     ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/41633427-adc3-4e18-ac14-e6ec371c701b)
+
+## 4.	food allergy & information about specific food
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/0fca9dd6-b09c-48b2-af03-fc0a17e34955)   ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/08a2b820-186b-4eca-a3d5-ded062cb1b37)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/36700ff0-19cc-4565-837f-2c432e0f0236)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/5f578fbe-6d05-4928-b82c-4e5dd276bed9)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/0dfa9b98-6049-47a1-9223-167dfdfc47b3)
+
+
+## 5.video and voice call (telemedicine )
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/0a678374-bf95-47e9-9122-3877875be2aa)
+
+## 6.Optical charactere Recognition (OCR)
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/5074b758-dfe4-408f-88ee-464aad7c5367)
+
+## 7.Upload PDF & any files 
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/e74713dc-f6b2-443c-af1d-c650a65df972)
+
+## 8.Reminder Notifications
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/d10d511d-0be0-4b52-8e0d-7847a46dfbdc)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/a20ef16c-4c03-4414-9afc-0529124e4d96)     ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/559a3e97-a6d8-426d-b9c8-2d89b2bd0a02)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/cd5c9497-fecc-4574-843b-a88b37ee280d)
+
+
+## 9. Body Mass Index (BMI) Calculator
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/51234415-6703-43cb-a788-bd1815192c41)   ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/fb046af6-a78c-43ad-95c1-87c5b29b4496)   
+
+## Online Payment
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/36dad1bd-41ff-4863-af70-d728543dea14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
