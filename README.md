@@ -57,6 +57,13 @@ Key features of the mobile application
 •	Decision support based on allergy & reminder notifications
 •	BMI calculator 
 
+## 1.authentication Feature:
 
-![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/8b0dca33-d6fa-4a54-992e-79c335734f8a)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/0289b997-a6d2-4aea-b073-f93f6b8bd314)
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/8b0dca33-d6fa-4a54-992e-79c335734f8a)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/0289b997-a6d2-4aea-b073-f93f6b8bd314)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/34db17e9-eff7-4455-8fe6-5ea3850ce749)
+
+## 2.dashboard   & chatbot:
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/3d883cdc-1104-43ce-bae0-2710cedcb501)   ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9265cda5-43b0-4496-9407-161ea743b2aa)
+
+
 
