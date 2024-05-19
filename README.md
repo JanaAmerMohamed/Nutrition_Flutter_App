@@ -52,18 +52,22 @@ Key features of the mobile application
 •	efficient data organization through Optical Character Recognition (OCR) technology.
 •	Fitness exercises charts
 •	Telemedicine
+•	Voice Recognition Naviagtor without clicking on anythings.
 •	Chatbot
 •	Online payment
 •	Decision support based on allergy & reminder notifications
 •	BMI calculator 
-
+## Welcome Page
+<img width="286" alt="image" src="https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9619c5e6-2140-4a44-9227-ab332121e0d1">
+                                   
 ## 1.authentication Feature:
 
 ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/8b0dca33-d6fa-4a54-992e-79c335734f8a)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/0289b997-a6d2-4aea-b073-f93f6b8bd314)    ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/34db17e9-eff7-4455-8fe6-5ea3850ce749)
 
 ## 2.dashboard   & chatbot:
 
-![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/3d883cdc-1104-43ce-bae0-2710cedcb501)      ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9265cda5-43b0-4496-9407-161ea743b2aa)
+
+<img width="287" alt="image" src="https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/b9c5eb26-5003-46fa-a810-681a52e391fb">               ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9265cda5-43b0-4496-9407-161ea743b2aa)
 
 ## 3.	fitness exercise:
 
@@ -98,6 +102,10 @@ Key features of the mobile application
 ## Online Payment
 
 ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/36dad1bd-41ff-4863-af70-d728543dea14)
+
+## Voice Recognitions
+
+
 
 
 
