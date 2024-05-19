@@ -67,7 +67,12 @@ Key features of the mobile application
 ## 2.dashboard   & chatbot:
 
 
-<img width="287" alt="image" src="https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/b9c5eb26-5003-46fa-a810-681a52e391fb">               ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9265cda5-43b0-4496-9407-161ea743b2aa)
+<img width="287" alt="image" src="https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/b9c5eb26-5003-46fa-a810-681a52e391fb">                                                   ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9265cda5-43b0-4496-9407-161ea743b2aa)
+
+## Voice Recognition Naviagtor without clicking on anythings
+
+<img width="287" alt="image" src="https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/f4399357-748e-46b6-968b-1ee2d8088be0">
+
 
 ## 3.	fitness exercise:
 
@@ -103,7 +108,7 @@ Key features of the mobile application
 
 ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/36dad1bd-41ff-4863-af70-d728543dea14)
 
-## Voice Recognitions
+
 
 
 
