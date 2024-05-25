@@ -67,7 +67,7 @@ Key features of the mobile application
 ## 2.dashboard   & chatbot:
 
 
-<img width="287" alt="image" src="https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/b9c5eb26-5003-46fa-a810-681a52e391fb">                                                   ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9265cda5-43b0-4496-9407-161ea743b2aa)
+<img width="304" alt="image" src="https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/0bd92c9b-f62d-4c1f-8944-92f6777139a7">                                                      ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/9265cda5-43b0-4496-9407-161ea743b2aa)
 
 ## Voice Recognition Naviagtor without clicking on anythings
 
