@@ -108,8 +108,17 @@ Key features of the mobile application
 
 ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/36dad1bd-41ff-4863-af70-d728543dea14)
 
+## Machine Learning object classifications
 
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/2fb1d943-b8ee-4fbc-88bf-c80558720047)            ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/b5c65460-9ce2-4c18-8881-2973b1dcb57d)
 
+## Registration an Appointmen
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/7f33ed85-fb49-4441-8fd1-3bdd23e7b195)        ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/1ce35511-4f77-4844-b0a9-b25db51ffe94)            ![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/4889617e-f49c-4e3a-816b-67bcf13fa530)
+
+## Feedback form
+
+![image](https://github.com/JanaAmerMohamed/Nutrition_Flutter_App/assets/102023114/22e19b81-ba32-4d39-b83f-e8ceb1a9e5fe)
 
 
 
